@@ -1,0 +1,2 @@
+Requirement for the project setup
+I have used numpy for the most of the project which is available in python apart from that you might need to install hmm learn library to implement HMM.
